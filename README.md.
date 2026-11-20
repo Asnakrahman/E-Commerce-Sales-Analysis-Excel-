@@ -1,0 +1,51 @@
+E-Commerce Sales Data Analysis Using Microsoft Excel
+
+Project Overview
+
+This project analyses e-commerce sales data using Microsoft Excel to identify revenue trends, product category performance, store performance, and customer payment preferences.
+
+Project Objectives
+
+- Analyse total sales revenue.
+- Identify top-performing product categories.
+- Compare sales across stores.
+- Analyse customer payment methods.
+- Build an interactive Excel dashboard.
+
+Tools and Skills
+
+- Microsoft Excel
+- Data Cleaning
+- Excel Formulas
+- PivotTables
+- PivotCharts
+- Slicers
+- Dashboard Design
+- Data Analysis
+
+Key Performance Indicators
+
+KPI| Result
+Total Revenue| ₹2,163,030
+Total Orders| 2,000
+Average Order Value| ₹1,087.63
+Total Quantity Sold| 4,948
+
+Dashboard Features
+
+The interactive dashboard includes:
+
+- Four KPI indicators.
+- Sales by Product Category.
+- Sales by Store.
+- Sales by Payment Type.
+- Interactive slicers for Product Category, Payment Type, and Store Name.
+
+Project Outcome
+
+Successfully developed an interactive Excel sales dashboard using PivotTables, PivotCharts, formulas, and slicers to support business decision-making through data analysis.
+
+Files Included
+
+- ECommerce_Sales_Dataset_COMPLETED WORK.xlsx
+- Project Summary included in the workbook.
